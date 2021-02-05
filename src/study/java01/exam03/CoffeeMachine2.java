@@ -1,4 +1,4 @@
-package study.java.exam03;
+package study.java01.exam03;
 
 public class CoffeeMachine2 {
 

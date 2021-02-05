@@ -1,4 +1,4 @@
-package study.java.exam02;
+package study.java01.exam02;
 
 public class Main {
 

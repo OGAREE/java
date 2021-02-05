@@ -1,4 +1,4 @@
-package study.java.exam02;
+package study.java01.exam02;
 
 /*
  * 클래스, 멤버필드, 멤버메소드

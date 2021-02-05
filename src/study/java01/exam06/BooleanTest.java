@@ -1,4 +1,4 @@
-package study.java.exam06;
+package study.java01.exam06;
 
 public class BooleanTest {
 	public static void main(String[] args) {

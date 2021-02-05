@@ -1,4 +1,4 @@
-package study.java.exam01;
+package study.java01.exam01;
 
 public class HelloWorld {
 

@@ -1,4 +1,4 @@
-package study.java.exam05;
+package study.java01.exam05;
 
 public class EnumExamMain {
 	public static void main(String[] args) {

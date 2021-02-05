@@ -1,4 +1,4 @@
-package study.java.exam08;
+package study.java01.exam08;
 
 public class PassByReferenceExam {
 

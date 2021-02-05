@@ -1,4 +1,4 @@
-package study.java.exam07;
+package study.java01.exam07;
 
 public class PassByValueExam {
 	public static void main(String[] args) {
